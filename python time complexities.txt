@@ -1,12 +1,6 @@
 	Complexity of Python Operations
 
 
-In this lecture we will learn the complexity classes of various operations on
-Python data types. Then we wil learn how to combine these complexity classes to
-compute the complexity class of all the code in a function, and therefore the
-complexity class of the function. This is called "static" analysis, because we
-do not need to run any code to perform it (contrasted with Dynamic or Emperical
-Analysis, when we do run code and take measurements of its execution).
 
 ------------------------------------------------------------------------------
 
@@ -508,6 +502,3 @@ efficient implementation for solving the problem.
 
 ------------------------------------------------------------------------------
 
-Problems:
-
-TBA
